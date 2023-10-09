@@ -1,1 +1,1 @@
-# E-Commerce-Customer-Churn-Prediction
+# Customer-Churn-Prediction
